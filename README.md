@@ -16,6 +16,8 @@
 - email: RuanChon@outlook.com
 - wechat: Chonsen1Chon
 
+<img align="right" alt="GIF" src="./code.gif" width="400" height="100%" />
+
 **技术栈**与**开发工具**
 
 <code><img height="20" src="./JavaScript.png"></code>
@@ -23,5 +25,3 @@
 <code><img height="20" src="./Vue.png"></code>
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./VSCode.png"></code>
-
-<img align="right" alt="GIF" src="./code.gif" width="380" height="100%" />
