@@ -11,7 +11,7 @@
 经历了很多最后自学的前端，平时很少同步 github，一般笔记顺手记在 notion 上。  
 这是我的 notion 地址，欢迎指点 [https://chongchon.notion.site](https://chongchon.notion.site/Notes-84c2157567434d2583b75fee871d0bee)
 
-目前是离职状态，希望能有大佬带飞。
+目前是离职状态，base 深圳，希望能有大佬带飞。
 
 - email: RuanChon@outlook.com
 - wechat: Chonsen1Chon
