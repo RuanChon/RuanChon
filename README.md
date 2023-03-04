@@ -14,8 +14,9 @@
 
 目前是离职状态，base 深圳，希望能有大佬带飞。
 
-- email: RuanChon@outlook.com
-- wechat: Chonsen1Chon
+- Blog: [我的博客](https://ruanchon.github.io/)
+- Email: RuanChon@outlook.com
+- Wechat: Chonsen1Chon
 
 **技术栈**与**开发工具**
 
