@@ -23,8 +23,11 @@
 <code><img height="20" src="./JavaScript.png"></code>
 <code><img height="20" src="./typescript.png"></code>
 <code><img height="20" src="./Vue.png"></code>
+<code><img height="20" src="./react.png"></code>
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./VSCode.png"></code>
+<code><img height="20" src="./vite.svg"></code>
+<code><img height="20" src="./Webpack.png"></code>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=RuanChon&show_icons=true&hide_border=true">
 <img align="right" alt="GIF" src="./code.gif" width="380" height="100%" /> -->
