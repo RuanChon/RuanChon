@@ -6,11 +6,11 @@
 
 ### Hello，我是 Ruanchon
 
-你好，我叫 RuanChon，出生于 1998 年，目前有三年半的前端工作经验。  
+你好，我是 RuanChon，出生于 1998 年，目前有三年半的前端工作经验。  
 喜欢折腾键盘和看电影，最近也在努力减肥 ing...🏋🏼
 
-自学的前端，一般笔记顺手记在 notion 上。  
-这是我的 notion 地址，欢迎指点 [https://chongchon.notion.site](https://chongchon.notion.site/Notes-84c2157567434d2583b75fee871d0bee)
+自学的前端，一般笔记顺手写在 notion 上。  
+这是我的 notion 地址，欢迎指点 [https://RuanChon.notion.site](https://chongchon.notion.site/Notes-84c2157567434d2583b75fee871d0bee)
 
 目前是离职状态，base 深圳，希望能有大佬带飞。
 
