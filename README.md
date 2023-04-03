@@ -23,8 +23,11 @@
 <code><img height="20" src="./JavaScript.png"></code>
 <code><img height="20" src="./typescript.png"></code>
 <code><img height="20" src="./Vue.png"></code>
-<code><img height="20" src="./react.png"></code>
-<code><img height="20" src="./vite.svg"></code>
+
+<!-- <code><img height="20" src="./react.png"></code> -->
+
+<!-- <code><img height="20" src="./vite.svg"></code> -->
+
 <code><img height="20" src="./Webpack.png"></code>
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./VSCode.png"></code>
