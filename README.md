@@ -10,7 +10,7 @@
 喜欢折腾键盘和看电影，最近也在努力减肥 ing...🏋🏼
 
 自学的前端，一般笔记顺手写在 notion 上。  
-这是我的 notion 地址，欢迎指点 [https://RuanChon.notion.site](https://chongchon.notion.site/Notes-84c2157567434d2583b75fee871d0bee)
+这是我的 notion 地址，欢迎指点 [https://RuanChon.notion.site](https://www.notion.so/raunchon/Notes-84c2157567434d2583b75fee871d0bee?pvs=4)
 
 目前是离职状态，base 深圳，希望能有大佬带飞。
 
@@ -26,6 +26,7 @@
 <code><img height="20" src="./Webpack.png"></code>
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./VSCode.png"></code>
+
 <!-- <code><img height="20" src="./react.png"></code> -->
 <!-- <code><img height="20" src="./vite.svg"></code> -->
 
