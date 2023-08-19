@@ -30,4 +30,4 @@
 <code><img height="20" src="./VSCode.png"></code>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=RuanChon&show_icons=true&hide_border=true"> -->
-<img align="right" alt="GIF" src="./code.gif" width="380" height="100%" />
+<img style="position: absolute; bottom: 0; right: 0;" alt="GIF" src="./code.gif" width="380" height="100%" />
