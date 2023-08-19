@@ -4,7 +4,7 @@
  * @Description: 文件说明
 -->
 
-### Hello，我是 Ruanchon
+### Hello，我是 Ruanchon 👨🏻‍💻
 
 来地球考察已经 25 年了，目前有三年半的前端工作经验。  
 喜欢折腾客制化键盘和看电影，最近也在努力减肥 ing...🏋🏼
@@ -30,4 +30,4 @@
 <code><img height="20" src="./VSCode.png"></code>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=RuanChon&show_icons=true&hide_border=true"> -->
-<img style="position: absolute; bottom: 0; right: 0;" alt="GIF" src="./code.gif" width="380" height="100%" />
+<!-- <img alt="GIF" src="./code.gif" width="380" height="100%" /> -->
